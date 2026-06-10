@@ -1,0 +1,13 @@
+[project]
+name = "Advanced Shell Simulation"
+version = "1.0.0"
+description = "Custom Unix-like shell simulating OS concepts: process management, job control, and built-in commands"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+authors = [{name = "Operating Systems Course"}]
+
+[tool.poetry]
+name = "ass"
+version = "1.0.0"
+description = "Advanced Shell Simulation with Integrated OS Concepts"
